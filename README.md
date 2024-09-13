@@ -1,0 +1,1 @@
+## This repository is created to understand how all the statistics such as Measure of Central Tendency, Measure of dispersion can be implemented using Python
